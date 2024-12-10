@@ -21,3 +21,7 @@ sudo make install
 python2 –version
 
 nano docker_compose.yml
+
+sudo docker compose -f docker_compose.yml up -d
+
+http://localhost:8081/
